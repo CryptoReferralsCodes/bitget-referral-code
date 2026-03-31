@@ -5,6 +5,9 @@
 [![Platform](https://img.shields.io/badge/Platform-Bitget-blue?style=for-the-badge)](https://www.bitget.com/referral/register?from=referral&clacCode=7N7PR4)
 [![Updated](https://img.shields.io/badge/Updated-2026-lightgrey?style=for-the-badge)](https://www.bitget.com/referral/register?from=referral&clacCode=7N7PR4)
 
+> **[Visit our detailed guide with fee tables, FAQ, and more →](https://bitget-referral-code.vercel.app/)**
+
+
 ---
 
 If you're planning to trade on Bitget — whether that's spot markets, futures, or copy trading — using a referral code at registration is one of the most straightforward ways to reduce your costs from day one. This guide covers everything you need to know about referral code **7N7PR4**: what it unlocks, how to apply it, how the fee structure works, and whether Bitget is actually worth your time compared to Binance and Bybit.
@@ -413,3 +416,16 @@ Steps after registering:
 ---
 
 *This guide is for informational purposes only. Cryptocurrency trading involves substantial risk of loss. Past performance — whether of the platform, individual traders, or assets — does not guarantee future results. Always conduct your own research and only trade with funds you can afford to lose.*
+
+---
+
+## More Referral Codes
+
+| Platform | Referral Code | Link |
+|----------|--------------|------|
+| [Binance](https://binance-referral-code-btcbonus.vercel.app/) | BTCBONUS | 20% Fee Discount |
+| [Bybit](https://bybit-referral-code.vercel.app/) | web3 | Up to $30,000 |
+| [MEXC](https://mexc-referral-code.vercel.app/) | mexc-btcbonus | Zero Maker Fees |
+| [OKX](https://okx-referral-code.vercel.app/) | DEFAULTREF | Fee Discounts |
+| [GMX](https://gmx-referral-code.vercel.app/) | PRO | 10% Fee Discount |
+| [Hyperliquid](https://hyperliquid-referral-code-awd.vercel.app/) | AWD | 4% Fee Discount |
